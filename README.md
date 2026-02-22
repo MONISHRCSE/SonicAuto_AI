@@ -107,4 +107,6 @@ User can select which part of the car is giving different sound.
 ---
 
 <p align="center">
-  <strong>Empowering Healthcare Through Intelligent Systems</strong><br>
+  <strong>Audio diagonostic Tool Built with ❤️ by Monish</strong><br>
+    
+   
