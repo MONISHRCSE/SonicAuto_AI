@@ -1,0 +1,112 @@
+{
+    "showrooms": [
+        {
+            "id": 1,
+            "brand": "Toyota",
+            "name": "Toyota Central Service",
+            "address": "123 Main St, Tech City",
+            "phone": "+91 98765 43210",
+            "rating": 4.8,
+            "distance": "2.5 km"
+        },
+        {
+            "id": 2,
+            "brand": "Toyota",
+            "name": "Elite Toyota Care",
+            "address": "456 Industrial Ave, Metro Ville",
+            "phone": "+91 98765 11111",
+            "rating": 4.5,
+            "distance": "5.2 km"
+        },
+        {
+            "id": 3,
+            "brand": "Honda",
+            "name": "Honda Premium Repairs",
+            "address": "789 Skyline Road, Vista Point",
+            "phone": "+91 99999 88888",
+            "rating": 4.9,
+            "distance": "1.8 km"
+        },
+        {
+            "id": 4,
+            "brand": "Honda",
+            "name": "Global Honda Service",
+            "address": "101 Ocean Drive, Bay Area",
+            "phone": "+91 99999 77777",
+            "rating": 4.3,
+            "distance": "7.0 km"
+        },
+        {
+            "id": 5,
+            "brand": "Ford",
+            "name": "Ford Performance Hub",
+            "address": "202 Mustang Blvd, Gear Valley",
+            "phone": "+91 88888 66666",
+            "rating": 4.7,
+            "distance": "3.1 km"
+        },
+        {
+            "id": 6,
+            "brand": "BMW",
+            "name": "BMW Excellence Center",
+            "address": "303 Bavarian St, Luxury Quarter",
+            "phone": "+91 77777 55555",
+            "rating": 4.9,
+            "distance": "4.5 km"
+        },
+        {
+            "id": 7,
+            "brand": "Mercedes",
+            "name": "Mercedes Benz Silver Star",
+            "address": "404 Diamond Ave, Royal Enclave",
+            "phone": "+91 66666 44444",
+            "rating": 4.8,
+            "distance": "2.2 km"
+        },
+        {
+            "id": 8,
+            "brand": "Audi",
+            "name": "Audi Quattro Workshop",
+            "address": "505 Ring Road, Circuit City",
+            "phone": "+91 55555 33333",
+            "rating": 4.6,
+            "distance": "6.4 km"
+        },
+        {
+            "id": 9,
+            "brand": "Hyundai",
+            "name": "Hyundai Smart Care",
+            "address": "606 Innovation Way, Future Town",
+            "phone": "+91 44444 22222",
+            "rating": 4.4,
+            "distance": "3.8 km"
+        },
+        {
+            "id": 10,
+            "brand": "Nissan",
+            "name": "Nissan GT-R Specialist",
+            "address": "707 Speedway Blvd, Racer Heights",
+            "phone": "+91 33333 11111",
+            "rating": 4.7,
+            "distance": "8.1 km"
+        },
+        {
+            "id": 11,
+            "brand": "Mahindra",
+            "name": "Mahindra Rise Motors",
+            "address": "808 Rural Highway, Agri Town",
+            "phone": "+91 22222 00000",
+            "rating": 4.6,
+            "distance": "3.4 km"
+        },
+        {
+            "id": 12,
+            "brand": "Mahindra",
+            "name": "Thar Adventures Service",
+            "address": "909 Offroad Trail, Rocky Hills",
+            "phone": "+91 11111 99999",
+            "rating": 4.8,
+            "distance": "12.0 km"
+        }
+    ]
+}
